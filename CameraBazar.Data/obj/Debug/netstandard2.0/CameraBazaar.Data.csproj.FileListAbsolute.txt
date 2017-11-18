@@ -1,0 +1,9 @@
+D:\SoftUni\CameraBazaar\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.deps.json
+D:\SoftUni\CameraBazaar\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfoInputs.cache
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfo.cs
+D:\SoftUni\CameraBazaar\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.dll
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.pdb
+D:\SoftUni\CameraBazaar\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csprojResolveAssemblyReference.cache

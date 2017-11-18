@@ -1,0 +1,14 @@
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csprojResolveAssemblyReference.cache
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csproj.CoreCompileInputs.cache
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfoInputs.cache
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfo.cs
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.deps.json
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.json
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.dev.json
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.dll
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.pdb
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+D:\SoftUni\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
